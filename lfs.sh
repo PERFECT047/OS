@@ -37,3 +37,6 @@ export PATH="$LFS/tools.bin:$PATH"
 source download.sh
 
 
+source packageinstaller.sh
+
+
